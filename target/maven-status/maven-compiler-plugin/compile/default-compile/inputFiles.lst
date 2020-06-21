@@ -1,3 +1,4 @@
 /root/spring/gs-rest-service/complete/src/main/java/com/example/restservice/Greeting.java
 /root/spring/gs-rest-service/complete/src/main/java/com/example/restservice/RestServiceApplication.java
+/root/spring/gs-rest-service/complete/src/main/java/com/dhkim9549/mlptictactoe/RMIInterface.java
 /root/spring/gs-rest-service/complete/src/main/java/com/example/restservice/GreetingController.java
